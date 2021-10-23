@@ -40,3 +40,27 @@ In the homepage I still need to decide what links I'll include in the navbar, so
 - <https://github.com/mathgama/graffiti-gallery/commit/1f6e4b9abb05794de71b3ff54c96bd262242a3bd>
 - <https://github.com/mathgama/graffiti-gallery/commit/ceff3b59b3aab69cea2687c6d311bf01f904bf27>
 - <https://github.com/mathgama/graffiti-gallery/commit/43fd35541b67e92953fc939873388ce21463f653>
+
+
+### Day 4: October 21, 2021
+
+**Today's Progress**: Struggled a bit trying to find the best way to open the full image when the user clicks a card in the home page.
+
+Need to make sure that the image scales to both "desktop" and "mobile" versions, and that in the mobile version the user will be able to zoom in to see more details. I did commit a first version, but I'm still not satisfied with the result, so I'll need to come back to it in the next days.
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/2854537ad9f0d7ec39402b270bb4bbee94891def>
+
+
+### Day 5: October 22, 2021
+
+**Today's Progress**: Started by removing some unnecessary files from the repo. 
+
+Then created a "submit graffiti" page to enable new images upload. Graffiti data is still quite simple with only 4 fields, but I'll keep it that way until I start using a backend. Then I can enhance it later if needed.
+
+Also made some adjustments to the "full image" view that I began yesterday. Now it is rendering way better than before on mobile devices.
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/f7b030c9cc755d5d696e58c979e1e9c5adb2bdb9>
+- <https://github.com/mathgama/graffiti-gallery/commit/1cd00e6ddbc2e64a29b21a70784ab280b003a11f>
+- <https://github.com/mathgama/graffiti-gallery/commit/0d66ab92c7bca3e91585f4a6c57acd2e406789e8>
