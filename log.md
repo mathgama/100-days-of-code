@@ -64,3 +64,25 @@ Also made some adjustments to the "full image" view that I began yesterday. Now 
 - <https://github.com/mathgama/graffiti-gallery/commit/f7b030c9cc755d5d696e58c979e1e9c5adb2bdb9>
 - <https://github.com/mathgama/graffiti-gallery/commit/1cd00e6ddbc2e64a29b21a70784ab280b003a11f>
 - <https://github.com/mathgama/graffiti-gallery/commit/0d66ab92c7bca3e91585f4a6c57acd2e406789e8>
+
+
+### Day 6: October 23, 2021
+
+**Today's Progress**: Decided to use Firebase Cloud Storage module to store the images uploaded by the users.
+
+Had a rough time trying to make it work though. After a long time fiddling with the configuration, I discovered that the official portuguese documentation only have code snippets for the version 8 of the SDK, while I was using version 9. The problem is that the portuguese documentation doesn't even make it clear that there is a new version.
+
+Portuguese docs:
+
+![ptbr-doc](./img/2021-10-23-ptbr-doc.png)
+
+English docs:
+
+![en-doc](./img/2021-10-23-en-doc.png)
+
+After switching to the english documentation I was finally able to get the upload to work!
+
+![image-storage](./img/2021-10-23-storage.png)
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/19017977ca00bf17c5d4600babfb3597aed149e1>
