@@ -86,3 +86,16 @@ After switching to the english documentation I was finally able to get the uploa
 
 **Link to work:** 
 - <https://github.com/mathgama/graffiti-gallery/commit/19017977ca00bf17c5d4600babfb3597aed149e1>
+
+
+### Day 7: October 24, 2021
+
+**Today's Progress**: Enhanced the upload page by adding some feedback to the user that the image is being processed:
+
+![user-feedback](./img/2021-10-24-user-feedback.gif)
+
+Then added some logic to generate an unique filename (using uuid) before sending the image to firebase. This will avoid name collision which can cause accidental overwriting in the storage. This same uuid should be used later on to create an entry in the database.
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/69554620949a15f8e5ea9ddde7cfc2ab2358ca31>
+- <https://github.com/mathgama/graffiti-gallery/commit/ad6d08c15b247c0d39bb82d37133b55291e0b2d4>
