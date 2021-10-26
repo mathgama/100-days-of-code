@@ -99,3 +99,16 @@ Then added some logic to generate an unique filename (using uuid) before sending
 **Link to work:** 
 - <https://github.com/mathgama/graffiti-gallery/commit/69554620949a15f8e5ea9ddde7cfc2ab2358ca31>
 - <https://github.com/mathgama/graffiti-gallery/commit/ad6d08c15b247c0d39bb82d37133b55291e0b2d4>
+
+
+### Day 8: October 25, 2021
+
+**Today's Progress**: Today I started by addind a simple form validation to the "submit graffiti" page. And then, with the image upload working, I started to use firebase to store the rest of the data in a database.
+
+First I spent some time working with the "realtime database" module, and then switched to the "firestore database" module as I discovered that this one is an enhanced version of the aforementioned.
+
+Ended up with the firestore working, but still need to use the read data to render the screen instead of the mock data that I've been using.
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/e4abb8064c8502f021cbc004def5e81f54c69322>
+- <https://github.com/mathgama/graffiti-gallery/commit/758d2d99cace22485dfb626abd6cd00d691cf98d>
