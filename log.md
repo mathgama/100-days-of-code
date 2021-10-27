@@ -112,3 +112,13 @@ Ended up with the firestore working, but still need to use the read data to rend
 **Link to work:** 
 - <https://github.com/mathgama/graffiti-gallery/commit/e4abb8064c8502f021cbc004def5e81f54c69322>
 - <https://github.com/mathgama/graffiti-gallery/commit/758d2d99cace22485dfb626abd6cd00d691cf98d>
+
+
+### Day 9: October 26, 2021
+
+**Today's Progress**: First I switched the index page to use the firebase data instead of the mock data I was using before.
+
+Then I started trying to implement pagination to the data fetch. The idea is to make an infinite scroll, fetching a new page everytime the user gets to the end of the scroll. After reading the documentation it seemed pretty easy to do with the firebase SDK, but I ran into some bug in the application react state that I still couldn't fix. And because of this I did not commit this code yet.
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/75583d22247369183b2bd0d894c77f91f8291135>
