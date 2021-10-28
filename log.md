@@ -122,3 +122,15 @@ Then I started trying to implement pagination to the data fetch. The idea is to 
 
 **Link to work:** 
 - <https://github.com/mathgama/graffiti-gallery/commit/75583d22247369183b2bd0d894c77f91f8291135>
+
+
+### Day 10: October 27, 2021
+
+**Today's Progress**: Solved the bug I had yesterday and got the infinite scroll to work!
+
+![infinite-scroll](./img/2021-10-27-infinite-scroll.gif)
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/75583d22247369183b2bd0d894c77f91f8291135>
+
+
