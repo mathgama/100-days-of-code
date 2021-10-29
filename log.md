@@ -134,3 +134,15 @@ Then I started trying to implement pagination to the data fetch. The idea is to 
 - <https://github.com/mathgama/graffiti-gallery/commit/75583d22247369183b2bd0d894c77f91f8291135>
 
 
+### Day 11: October 28, 2021
+
+**Today's Progress**: Started working in the user authentication.
+
+The app is already using the firebase auth module for signing in the user with its Google account. After logging in, the menu on the app bar is changed:
+
+![user-menu](./img/2021-10-28-user-menu.png)
+
+Logout is not implemented yet.
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/75583d22247369183b2bd0d894c77f91f8291135>
