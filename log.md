@@ -145,4 +145,4 @@ The app is already using the firebase auth module for signing in the user with i
 Logout is not implemented yet.
 
 **Link to work:** 
-- <https://github.com/mathgama/graffiti-gallery/commit/75583d22247369183b2bd0d894c77f91f8291135>
+- <https://github.com/mathgama/graffiti-gallery/commit/b60b96366c99fc55daf52b5012be0595eb110f32>
