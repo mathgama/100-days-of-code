@@ -146,3 +146,32 @@ Logout is not implemented yet.
 
 **Link to work:** 
 - <https://github.com/mathgama/graffiti-gallery/commit/b60b96366c99fc55daf52b5012be0595eb110f32>
+
+
+### Day 12: October 29, 2021
+
+**Today's Progress**: First I implemented the user logout that was pending. 
+
+Then I did some refactoring, including the split of the firebase functions, creating different files for each module (firestore, storage and auth). 
+
+Lastly I fixed the user name that was fixed in the image upload and should be using the logged in user info.
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/73d884383711e54aa26cff4d376bc3a435baa69f>
+- <https://github.com/mathgama/graffiti-gallery/commit/070a6e21759d530100354d917adb46b5a1b6f3e6>
+- <https://github.com/mathgama/graffiti-gallery/commit/598c551a9fb4b539db9e2de02705eb6082f744cd>
+- <https://github.com/mathgama/graffiti-gallery/commit/4889a84b75aa5cd6f9aebafc9793915c15493eb8>
+
+
+### Day 13: October 30, 2021
+
+**Today's Progress**: I'm traveling and unfortunately don't have access to my PC. Because of this, I did code but couldn't test any of the features done today.
+
+- Added a route protection for the "submit-graffiti" page, to allow only signed in users to access it;
+- Changed the number of images fetched from the firestore per request, to decrease the number of requests;
+- Started creating a function to fetch the "featured graffiti" that will appear in the home page.
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/868f0e5537b9aabff8d37290f42925a2e657fc21>
+- <https://github.com/mathgama/graffiti-gallery/commit/1befadeb24d24b24706b4a93eb5330f5aa6ae4c4>
+- <https://github.com/mathgama/graffiti-gallery/commit/b770f3c890248480ed39d28d6897989dac77e766>
