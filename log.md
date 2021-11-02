@@ -175,3 +175,15 @@ Lastly I fixed the user name that was fixed in the image upload and should be us
 - <https://github.com/mathgama/graffiti-gallery/commit/868f0e5537b9aabff8d37290f42925a2e657fc21>
 - <https://github.com/mathgama/graffiti-gallery/commit/1befadeb24d24b24706b4a93eb5330f5aa6ae4c4>
 - <https://github.com/mathgama/graffiti-gallery/commit/b770f3c890248480ed39d28d6897989dac77e766>
+
+
+### Day 14: October 31, 2021
+
+**Today's Progress**: Fixed the features introduced yesterday and that wasn't tested yet. And then added a link to the home page in the app bar logo.
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/3583e96766297524ca0d4a675be38d3f420e98ee>
+- <https://github.com/mathgama/graffiti-gallery/commit/89afcaf2a0179518df7529ada18dcaff8743084a>
+- <https://github.com/mathgama/graffiti-gallery/commit/9aa3527c0960fd92aab9848391c8e09da9be925d>
+
+
