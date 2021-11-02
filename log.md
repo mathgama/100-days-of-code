@@ -187,3 +187,21 @@ Lastly I fixed the user name that was fixed in the image upload and should be us
 - <https://github.com/mathgama/graffiti-gallery/commit/9aa3527c0960fd92aab9848391c8e09da9be925d>
 
 
+### Day 15: November 01, 2021
+
+**Today's Progress**: Created a navbar with a link to the "submit-graffiti" page that should appear only when the user is logged in. It is replaced with a icon to open a drawer when in the mobile version.
+
+Desktop version:
+
+![desktop-navbar](./img/2021-11-01-desktop-navbar.png)
+
+Mobile version:
+
+![mobile-navbar](./img/2021-11-01-mobile-navbar.gif)
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/e3e294a9f003ba976fd16d6fb8c274eff838bc04>
+- <https://github.com/mathgama/graffiti-gallery/commit/7e690ad4b593876798de8507653fbaa3c3b78702>
+
+
+
