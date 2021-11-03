@@ -204,4 +204,13 @@ Mobile version:
 - <https://github.com/mathgama/graffiti-gallery/commit/7e690ad4b593876798de8507653fbaa3c3b78702>
 
 
+### Day 16: November 02, 2021
 
+**Today's Progress**: Updated the project README and fixed some minor bugs for the first release.
+
+Also changed the way I was using environment variables to make it easier to deploy on Vercel. But I'm still having some problems with the deploy that I couldn't figure out yet.
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/8a5b3d6b2750dde6c6b8fb700b908b298b8db4d5>
+- <https://github.com/mathgama/graffiti-gallery/commit/51197328168e79a25a932549aa9ba11b9af2cf64>
+- <https://github.com/mathgama/graffiti-gallery/commit/e2156b1070eb7f78c5bf639eb0b9322ceb2ae14a>
