@@ -214,3 +214,13 @@ Also changed the way I was using environment variables to make it easier to depl
 - <https://github.com/mathgama/graffiti-gallery/commit/8a5b3d6b2750dde6c6b8fb700b908b298b8db4d5>
 - <https://github.com/mathgama/graffiti-gallery/commit/51197328168e79a25a932549aa9ba11b9af2cf64>
 - <https://github.com/mathgama/graffiti-gallery/commit/e2156b1070eb7f78c5bf639eb0b9322ceb2ae14a>
+
+
+### Day 17: November 03, 2021
+
+**Today's Progress**: It took me some time to figure out the environment variables problem I was having after deploying to Vercel, but with some chanages I was able to fix it.
+
+Now the app is having trouble with permissions while trying to access firebase. It works locally but when deployed to Vercel it doesn't.
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/a1a4668f3d919a5fc0f45a92ce629f03d4510d74>
