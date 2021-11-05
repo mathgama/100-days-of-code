@@ -224,3 +224,14 @@ Now the app is having trouble with permissions while trying to access firebase. 
 
 **Link to work:** 
 - <https://github.com/mathgama/graffiti-gallery/commit/a1a4668f3d919a5fc0f45a92ce629f03d4510d74>
+
+
+### Day 18: November 04, 2021
+
+**Today's Progress**: Fixed some minor bugs in the app. 
+
+Then I tried to fix the permission error in the Vercel deploy, but I still couldn't figure out what is causing it.
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/2d9e473e92eae5f238fc3f59eee7904df7a2ac3b>
+- <https://github.com/mathgama/graffiti-gallery/commit/f6ae3a7b41a911067530daadbe3a1ca0759d821f>
