@@ -235,3 +235,15 @@ Then I tried to fix the permission error in the Vercel deploy, but I still could
 **Link to work:** 
 - <https://github.com/mathgama/graffiti-gallery/commit/2d9e473e92eae5f238fc3f59eee7904df7a2ac3b>
 - <https://github.com/mathgama/graffiti-gallery/commit/f6ae3a7b41a911067530daadbe3a1ca0759d821f>
+
+
+### Day 19: November 04, 2021
+
+**Today's Progress**: Decided to take some time doing other things than the Graffiti Gallery app, so I started studying python.
+
+I did lots of tutorials at freeCodeCamp and I hope to start at least a simple project using Python in the near future!
+
+Because I didn't commit anything with Python yet, I decided to create a repo that will be used to build my portfolio. The commit have only a veery simple hello world though, because most of my time was spent studying Python.
+
+**Link to work:** 
+- <https://github.com/mathgama/portfolio/commit/68cd14435d337c247b82924e163b2d5eb20b19f3>
