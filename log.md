@@ -265,3 +265,11 @@ Also fixed the "welcome" section to work better at small devices.
 
 **Link to work:** 
 - <https://github.com/mathgama/portfolio/commit/8288967f605599c0aa32316e80e1237dfd143a3d>
+
+
+### Day 22: November 08, 2021
+
+**Today's Progress**: Added the "backround" section to the portfolio.
+
+**Link to work:** 
+- <https://github.com/mathgama/portfolio/commit/78af00b20d74c6481c35205e348794b9224b17e5>
