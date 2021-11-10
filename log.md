@@ -273,3 +273,14 @@ Also fixed the "welcome" section to work better at small devices.
 
 **Link to work:** 
 - <https://github.com/mathgama/portfolio/commit/78af00b20d74c6481c35205e348794b9224b17e5>
+
+
+### Day 23: November 09, 2021
+
+**Today's Progress**: Added the "contact" section to the portfolio and fixed some minor bugs.
+
+Now I only need to update the "projects" section with the link the to the actual repositories. But first I need to update those repos to include a better readme.
+
+**Link to work:** 
+- <https://github.com/mathgama/portfolio/commit/487d4de820dd713f95a9d2c7bdddaf12207d3869>
+- <https://github.com/mathgama/portfolio/commit/01ef5b5e38e28c80dc5cb6424b21a657b684f974>
