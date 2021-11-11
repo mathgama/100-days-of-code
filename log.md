@@ -284,3 +284,19 @@ Now I only need to update the "projects" section with the link the to the actual
 **Link to work:** 
 - <https://github.com/mathgama/portfolio/commit/487d4de820dd713f95a9d2c7bdddaf12207d3869>
 - <https://github.com/mathgama/portfolio/commit/01ef5b5e38e28c80dc5cb6424b21a657b684f974>
+
+
+### Day 24: November 10, 2021
+
+**Today's Progress**: Back to the graffiti-gallery project, I finally got it to work on Vercel! 
+
+Then I updated the security rules on firebase to protect the storage from:
+1. Unauthorized users
+2. Files that are not images
+3. files that are too big (>5MB)
+
+And with that, graffiti-gallery version 1.0.0 is now released! 🎉
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/85b32f4854b1be99da20d80a9afb92775d9e499c>
+- <https://github.com/mathgama/graffiti-gallery/commit/eb5c6b3bb59435c569da4033da3dde1ab1bd7b3a>
