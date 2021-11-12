@@ -241,7 +241,14 @@ Then I tried to fix the permission error in the Vercel deploy, but I still could
 
 **Today's Progress**: Decided to take some time doing other things than the Graffiti Gallery app, so I started studying python.
 
-I did lots of tutorials at freeCodeCamp and I hope to start at least a simple project using Python in the near future!
+I did lots of tutorials at freeCodeCamp and I hope to start at least a simple project using Python in the near futBack to the graffiti-gallery project, I finally got it to work on Vercel! 
+
+Then I updated the security rules on firebase to protect the storage from:
+1. Unauthorized users
+2. Files that are not images
+3. files that are too big (>5MB)
+
+And with that, graffiti-gallery version 1.0.0 is now released! 🎉ure!
 
 Because I didn't commit anything with Python yet, I decided to create a repo that will be used to build my portfolio. The commit have only a veery simple hello world though, because most of my time was spent studying Python.
 
@@ -300,3 +307,19 @@ And with that, graffiti-gallery version 1.0.0 is now released! 🎉
 **Link to work:** 
 - <https://github.com/mathgama/graffiti-gallery/commit/85b32f4854b1be99da20d80a9afb92775d9e499c>
 - <https://github.com/mathgama/graffiti-gallery/commit/eb5c6b3bb59435c569da4033da3dde1ab1bd7b3a>
+
+
+### Day 25: November 11, 2021
+
+**Today's Progress**: Solved some minor bugs in the graffiti-gallery project.
+
+Then went back to an old project called spotify-featured-playlists and updated its readme while also fixing some minor bugs and doing some cleanup on the repository.
+
+The goal is to have some minimum documentation on at least some projects to be able to include them in my portfolio.
+
+**Link to work:** 
+- <https://github.com/mathgama/graffiti-gallery/commit/8264a4fe6c537e532fad5f843672eb325a642268>
+- <https://github.com/mathgama/graffiti-gallery/commit/21eb543e62ef18f15f98cbb24a763442f67a75b5>
+- <https://github.com/mathgama/spotify-featured-playlists/commit/fc9f381c37d655a1a49e601fae9433129794296f>
+- <https://github.com/mathgama/spotify-featured-playlists/commit/436dece7359682b5459cdf46c951a5c48b5e8fb6>
+- <https://github.com/mathgama/spotify-featured-playlists/commit/e04785898c0a254cea8b802ba76380bdde51ac38>
