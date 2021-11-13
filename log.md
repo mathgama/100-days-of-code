@@ -323,3 +323,17 @@ The goal is to have some minimum documentation on at least some projects to be a
 - <https://github.com/mathgama/spotify-featured-playlists/commit/fc9f381c37d655a1a49e601fae9433129794296f>
 - <https://github.com/mathgama/spotify-featured-playlists/commit/436dece7359682b5459cdf46c951a5c48b5e8fb6>
 - <https://github.com/mathgama/spotify-featured-playlists/commit/e04785898c0a254cea8b802ba76380bdde51ac38>
+
+
+### Day 26: November 12, 2021
+
+**Today's Progress**: Worked at my portfolio doing some minor bug/typo fixes and updating the "projects" section with the link to the github repos.
+
+Changed the repository name to "mathgama.github.io" to be able to use the GitHub Pages feature, and then spent some time registering and configuring domains for it.
+
+The portfolio is now available at [https://matheusgama.com/](https://matheusgama.com/)!
+
+**Link to work:** 
+- <https://github.com/mathgama/mathgama.github.io/commit/aefea022ea7e63ba8a55b56bc3b6643be398d795>
+- <https://github.com/mathgama/mathgama.github.io/commit/709730dfb1dbaf48fa9d4126ccd9045d3838e5ee>
+- <https://github.com/mathgama/mathgama.github.io/commit/b7812abaaf1115185a4ff6856b5b0852cea463d1>
