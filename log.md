@@ -345,7 +345,7 @@ The portfolio is now available at [https://matheusgama.com/](https://matheusgama
 
 Started by learning about virtual environments and creating the repository. Then implemented the grid draw along with a initial board state that is fetched from the [Sugoku](https://github.com/bertoort/sugoku) API.
 
-<img src="./img/2021-11-13-sudoku-board.png" width="50%">
+![sudoku-board](./img/2021-11-13-sudoku-board.png)
 
 **Link to work:** 
 - <https://github.com/mathgama/sudoku-solver/commit/356a02eaf70a32e861158e4fd9b2df06c23d9d4f>
