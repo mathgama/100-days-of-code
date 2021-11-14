@@ -337,3 +337,29 @@ The portfolio is now available at [https://matheusgama.com/](https://matheusgama
 - <https://github.com/mathgama/mathgama.github.io/commit/aefea022ea7e63ba8a55b56bc3b6643be398d795>
 - <https://github.com/mathgama/mathgama.github.io/commit/709730dfb1dbaf48fa9d4126ccd9045d3838e5ee>
 - <https://github.com/mathgama/mathgama.github.io/commit/b7812abaaf1115185a4ff6856b5b0852cea463d1>
+
+
+### Day 27: November 13, 2021
+
+**Today's Progress**: Started a new project called "sudoku-solver". First step is to make a sudoku game using Python's library PyGame. 
+
+Started by learning about virtual environments and creating the repository. Then implemented the grid draw along with a initial board state that is fetched from the [Sugoku](https://github.com/bertoort/sugoku) API.
+
+<img src="./img/2021-11-13-sudoku-board.png" width="50%">
+
+**Link to work:** 
+- <https://github.com/mathgama/sudoku-solver/commit/356a02eaf70a32e861158e4fd9b2df06c23d9d4f>
+- <https://github.com/mathgama/sudoku-solver/commit/c96e7a6998e18dbd26a9e18df2c73f0db6d1cbd1>
+- <https://github.com/mathgama/sudoku-solver/commit/aa50392a422498adc2d12db4d73d463c6bab7eba>
+
+
+### Day 28: November 14, 2021
+
+**Today's Progress**: Refactored the program to use classes and did some tweaks on the board "responsiveness". One of the things I wanted was that the program should be able to work with variable board/cell sizes.
+
+Then implemented the "cell selection" feature. The board will highlight the clicked cell so that the user can type the number in.
+
+**Link to work:** 
+- <https://github.com/mathgama/sudoku-solver/commit/356a02eaf70a32e861158e4fd9b2df06c23d9d4f>
+- <https://github.com/mathgama/sudoku-solver/commit/c96e7a6998e18dbd26a9e18df2c73f0db6d1cbd1>
+- <https://github.com/mathgama/sudoku-solver/commit/aa50392a422498adc2d12db4d73d463c6bab7eba>
