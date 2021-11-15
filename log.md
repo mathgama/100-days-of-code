@@ -363,3 +363,21 @@ Then implemented the "cell selection" feature. The board will highlight the clic
 - <https://github.com/mathgama/sudoku-solver/commit/356a02eaf70a32e861158e4fd9b2df06c23d9d4f>
 - <https://github.com/mathgama/sudoku-solver/commit/c96e7a6998e18dbd26a9e18df2c73f0db6d1cbd1>
 - <https://github.com/mathgama/sudoku-solver/commit/aa50392a422498adc2d12db4d73d463c6bab7eba>
+
+
+### Day 29: November 15, 2021
+
+**Today's Progress**: Added user input and validation to see if the input is valid according to the game rules. Also added the possibility of moving the cell selection with the arrow keys.
+
+With this, the game is now in a playable state!
+
+<img src="./img/2021-11-15-sudoku-validation.gif" width="355px">
+
+Next steps should be:
+1. Creating an algorithm for self-solving;
+2. Image recognition to add the possibility of reading a sudoku grid from a photo instead of using the API.
+
+**Link to work:** 
+- <https://github.com/mathgama/sudoku-solver/commit/6feb949cf9305d67d022755af009b0115c70ed84>
+- <https://github.com/mathgama/sudoku-solver/commit/9a08c96114027cc4cbe08bdfec8da5630da6b9a8>
+- <https://github.com/mathgama/sudoku-solver/commit/17fe31e54d0c3413c33344936222efc958d62b50>
