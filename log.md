@@ -369,7 +369,7 @@ Then implemented the "cell selection" feature. The board will highlight the clic
 
 **Today's Progress**: Added user input and validation to see if the input is valid according to the game rules. Also added the possibility of moving the cell selection with the arrow keys.
 
-With this, the game is now in a playable state!
+With this, the game is now in a playable state! I feel like there's a lot of room for optimization, but I won't dive too much into it since it is not my goal right now.
 
 <img src="./img/2021-11-15-sudoku-validation.gif" width="355px">
 
@@ -381,3 +381,18 @@ Next steps should be:
 - <https://github.com/mathgama/sudoku-solver/commit/6feb949cf9305d67d022755af009b0115c70ed84>
 - <https://github.com/mathgama/sudoku-solver/commit/9a08c96114027cc4cbe08bdfec8da5630da6b9a8>
 - <https://github.com/mathgama/sudoku-solver/commit/17fe31e54d0c3413c33344936222efc958d62b50>
+
+
+### Day 30: November 16, 2021
+
+**Today's Progress**: First I fixed a bug in the function used to validate the user input. 
+
+Then I created a function to solve the board automatically using recursion! I am pretty happy with the result since I haven't looked for solutions from other developers before doing my own. The only thing I knew is that recursion was the most adopted solution (judging by the title of the videos on Youtube title at least), than I tried to create my own algorithm based on that.
+
+It usually gets to the solution pretty fast:
+
+![sudoku-time-to-solve](./img/2021-11-16-sudoku-time-to-solve.png)
+
+
+**Link to work:** 
+- <https://github.com/mathgama/sudoku-solver/commit/5f7d344c7736a93f218466cbe750f2c7d5cc1567>
