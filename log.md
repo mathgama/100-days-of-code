@@ -393,6 +393,13 @@ It usually gets to the solution pretty fast:
 
 ![sudoku-time-to-solve](./img/2021-11-16-sudoku-time-to-solve.png)
 
-
 **Link to work:** 
 - <https://github.com/mathgama/sudoku-solver/commit/5f7d344c7736a93f218466cbe750f2c7d5cc1567>
+
+
+### Day 31: November 17, 2021
+
+**Today's Progress**: Started doing some tests with OpenCV to crop a sudoku board from a image. Found an awesome ![video](https://www.youtube.com/watch?v=qOXDoYUgNlU) on Youtube that should help me alot.
+
+**Link to work:** 
+- <https://github.com/mathgama/sudoku-solver/commit/cc718bbeaaf4507b18a6839c2ae7a3f430e543f7>
