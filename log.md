@@ -399,7 +399,30 @@ It usually gets to the solution pretty fast:
 
 ### Day 31: November 17, 2021
 
-**Today's Progress**: Started doing some tests with OpenCV to crop a sudoku board from a image. Found an awesome ![video](https://www.youtube.com/watch?v=qOXDoYUgNlU) on Youtube that should help me alot.
+**Today's Progress**: Started doing some tests with OpenCV to recognize a sudoku board from a photo/image. Found an awesome ![video](https://www.youtube.com/watch?v=qOXDoYUgNlU) on Youtube that should help me alot.
+
+With today's code I was able to turn this original image:
+
+![sudoku-orig-image](./img/2021-11-17-sudoku-orig.image.png)
+
+Into this image, cropping only the sudoku board and discarding the rest:
+
+![sudoku-cropped-board](./img/2021-11-17-sudoku-cropped-board.png)
 
 **Link to work:** 
 - <https://github.com/mathgama/sudoku-solver/commit/cc718bbeaaf4507b18a6839c2ae7a3f430e543f7>
+
+
+### Day 32: November 18, 2021
+
+**Today's Progress**: Chopped the whole board image into 81 smaller images containing each one of the cells of the board. 
+
+![sudoku-cell-image](./img/2021-11-18-sudoku-cell-image.png)
+
+Then used Tesseract to recgonize the value of each cell and store them in a array. Now I only need to format the data in the way that the GUI is expecting it to be.
+
+For the image I was using in the tests, the character recognition worked pretty well. In the next days I'll try to test with actual photos from my cell phone and see how it goes.
+
+**Link to work:** 
+- <https://github.com/mathgama/sudoku-solver/commit/83f3d58d627e6dfb7a52ef2276fce191e1aa9db6>
+
