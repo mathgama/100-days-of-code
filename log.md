@@ -403,11 +403,11 @@ It usually gets to the solution pretty fast:
 
 With today's code I was able to turn this original image:
 
-![sudoku-orig-image](./img/2021-11-17-sudoku-orig.image.png)
+<img src="./img/2021-11-17-sudoku-orig-image.png" width="280px" />
 
 Into this image, cropping only the sudoku board and discarding the rest:
 
-![sudoku-cropped-board](./img/2021-11-17-sudoku-cropped-board.png)
+<img src="./img/2021-11-17-sudoku-cropped-board.png" width="300px" />
 
 **Link to work:** 
 - <https://github.com/mathgama/sudoku-solver/commit/cc718bbeaaf4507b18a6839c2ae7a3f430e543f7>
@@ -417,7 +417,7 @@ Into this image, cropping only the sudoku board and discarding the rest:
 
 **Today's Progress**: Chopped the whole board image into 81 smaller images containing each one of the cells of the board. 
 
-![sudoku-cell-image](./img/2021-11-18-sudoku-cell-image.png)
+<img src="./img/2021-11-18-sudoku-cell-image.png" width="280px" />
 
 Then used Tesseract to recgonize the value of each cell and store them in a array. Now I only need to format the data in the way that the GUI is expecting it to be.
 
@@ -426,3 +426,31 @@ For the image I was using in the tests, the character recognition worked pretty 
 **Link to work:** 
 - <https://github.com/mathgama/sudoku-solver/commit/83f3d58d627e6dfb7a52ef2276fce191e1aa9db6>
 
+
+### Day 33: November 19, 2021
+
+**Today's Progress**: Now both modules ("game GUI" and "image recognition") are working together!
+
+The user should now be able to pass an argument when starting the game to load the initial state from an image:
+
+```
+python3 game.py -i <image_path>
+```
+
+When started without the "-i" argument, the game will fetch an initial board state from the Sugoku API as described in previous days.
+
+Original image:
+
+<img src="./img/2021-11-17-sudoku-orig-image.png" width="280px" />
+
+Game GUI:
+
+<img src="./img/2021-11-19-sudoku-board-recognized.png" width="280px" />
+
+After using the auto-solve function:
+
+<img src="./img/2021-11-19-sudoku-board-solved.png" width="280px" />
+
+**Link to work:** 
+- <https://github.com/mathgama/sudoku-solver/commit/9caba1f88dbc8bf8709eebe2964d93fed1593fb9>
+- <https://github.com/mathgama/sudoku-solver/commit/82de42f53600aa1962ee9435c346c74e4dbfd2bd>
