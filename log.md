@@ -399,7 +399,7 @@ It usually gets to the solution pretty fast:
 
 ### Day 31: November 17, 2021
 
-**Today's Progress**: Started doing some tests with OpenCV to recognize a sudoku board from a photo/image. Found an awesome ![video](https://www.youtube.com/watch?v=qOXDoYUgNlU) on Youtube that should help me alot.
+**Today's Progress**: Started doing some tests with OpenCV to recognize a sudoku board from a photo/image. Found an awesome [video](https://www.youtube.com/watch?v=qOXDoYUgNlU) on Youtube that should help me alot.
 
 With today's code I was able to turn this original image:
 
@@ -454,3 +454,39 @@ After using the auto-solve function:
 **Link to work:** 
 - <https://github.com/mathgama/sudoku-solver/commit/9caba1f88dbc8bf8709eebe2964d93fed1593fb9>
 - <https://github.com/mathgama/sudoku-solver/commit/82de42f53600aa1962ee9435c346c74e4dbfd2bd>
+
+
+### Day 34: November 20, 2021
+
+**Today's Progress**: Started a new Python project called "racing-cars".
+
+The idea is to build a simple racing game where the user should be able to race a car around a track.
+
+I'll probably follow this [video](https://www.youtube.com/watch?v=L3ktUWfAMPg) for most of the game itself, but my end goal really is to modify the game a little and to implement neural networks at the end to see if the computer can learn to race the track by itself!
+
+**Link to work:** 
+- <https://github.com/mathgama/racing-cars/commit/1301eec09b60e3c6f1b28cb98741cc5958ac45b8>
+
+
+### Day 35: November 21, 2021
+
+**Today's Progress**: Added a "car" class and some basic functions, including the drawing of the car in the screen.
+
+Also did some minor refactoring in the "sudoku-solver" project.
+
+**Link to work:** 
+- <https://github.com/mathgama/racing-cars/commit/da6c807ac171da16dee0f7beb022f6112f129fbf>
+- <https://github.com/mathgama/sudoku-solver/commit/e2446d47e86c18654a32b3111910bd1202f4c0f6>
+
+
+### Day 36: November 22, 2021
+
+**Today's Progress**: Added car rotation and car movement. 
+
+Now the car can already be driven around the track, but it still lacks collision detection:
+
+<img src="./img/2021-11-22-car-movement.gif" width="350px" />
+
+**Link to work:** 
+- <https://github.com/mathgama/racing-cars/commit/e6184ce2048957a43fdcaa24f06cf3aa98695b49>
+
