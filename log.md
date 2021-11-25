@@ -490,3 +490,35 @@ Now the car can already be driven around the track, but it still lacks collision
 **Link to work:** 
 - <https://github.com/mathgama/racing-cars/commit/e6184ce2048957a43fdcaa24f06cf3aa98695b49>
 
+
+### Day 37: November 23, 2021
+
+**Today's Progress**: Added collision detection and car deceleration when not pressing "W (forward)".
+
+Now I consider the game to be playable, with the user being able to move around the track and not being able to pass through the track borders. It still lacks some features, but I think that in the current state I will be able to start working on the machine learning.
+
+**Link to work:** 
+- <https://github.com/mathgama/racing-cars/commit/7e508b71458d28dbf4f230d31356e83121125f10>
+- <https://github.com/mathgama/racing-cars/commit/416511feab7e978f76ac18efd67b22412bd1b2ee>
+
+
+### Day 38: November 24, 2021
+
+**Today's Progress**: Added some sensors to the car that should measure the distance to the closest obstacles.
+
+Started by adding 3 sensors, one in the front (labelled "f"), and one in each side of the car (labelled "r" and "l"):
+
+![car-sensors](./img/2021-11-24-car-sensors.png)
+
+The last line in the terminal corresponds to the distances measured in the above image:
+
+![car-sensors-values](./img/2021-11-24-car-sensors-values.png)
+
+Every time the car moves or turns, the distances are updated.
+
+Those sensors will be used by the neural network in the future, and I'll probably add 2 more sensors in between those 3, for it to be more accurate.
+
+**Link to work:** 
+- <https://github.com/mathgama/racing-cars/commit/5ff55d4306115b7013d3da3dac751b98a5a0a9ef>
+
+
