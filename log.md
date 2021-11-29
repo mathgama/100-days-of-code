@@ -522,3 +522,46 @@ Those sensors will be used by the neural network in the future, and I'll probabl
 - <https://github.com/mathgama/racing-cars/commit/5ff55d4306115b7013d3da3dac751b98a5a0a9ef>
 
 
+### Day 39: November 25, 2021
+
+**Today's Progress**: Started by doing some refactoring in the car class to make it more easier to instantiate.
+
+Then added 2 more sensors to the car, making it 5 total ("left", "left-front", "front", "right-front" and "right").
+
+And lastly, added a way to measure the score based on how far the car has moved from the starting point. Used a technique called "wavefront propagation" to determine the score of each point of the track. Pretty happy with it since I wrote the algorithm myself without looking for any code prior to it.
+
+**Link to work:** 
+- <https://github.com/mathgama/racing-cars/commit/16774a7993aec41bb26cccc35ebb0aa0d6dbdfd6>
+- <https://github.com/mathgama/racing-cars/commit/4b6f8cc2ede5bb264924bd5275b523d4d7e60095>
+- <https://github.com/mathgama/racing-cars/commit/a9490729e162b416212460032bde5916abdcecff>
+
+
+### Day 40: November 26, 2021
+
+**Today's Progress**: Added a finish line to the track and updated the collision points to account for it.
+
+**Link to work:** 
+- <https://github.com/mathgama/racing-cars/commit/dee399c41ac738be89a05fa89ab25f240e4d8f01>
+
+
+### Day 41: November 27, 2021
+
+**Today's Progress**: After doing some research on neural networks, I found out that refactoring the main file would make it easier to implement in the future.
+
+Started doing it but wasn't able to get the game to a "playable" state, commited anyway just to show some progress.
+
+**Link to work:** 
+- <https://github.com/mathgama/racing-cars/commit/0d18767c6b4541e27dafe5ce427b4cd9b14815ff>
+
+
+### Day 42: November 28, 2021
+
+**Today's Progress**: Finished the refactoring started yesterday. I had some trouble to account for multiple key strokes at the same time after the refactoring but I was able to solve it.
+
+Now there's a "game" class insted of having many things in the game loop like before. This should ease the neural network implementation.
+
+**Link to work:** 
+- <https://github.com/mathgama/racing-cars/commit/c6ff2fca512c3f61c14c5ab2dc62a97df80ffec4>
+- <https://github.com/mathgama/racing-cars/commit/6f1f9669fed864404855d52580bc5160e7373c26>
+
+
