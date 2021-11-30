@@ -565,3 +565,13 @@ Now there's a "game" class insted of having many things in the game loop like be
 - <https://github.com/mathgama/racing-cars/commit/6f1f9669fed864404855d52580bc5160e7373c26>
 
 
+### Day 43: November 29, 2021
+
+**Today's Progress**: I spent some time learning a bit more about neural networks, so not a lot of code was commited.
+
+I created an "agent" class that should contain the steps needed for the AI to train on the game. In this class I started by implementing a method that should be responsible for structuring the game actual state (the car speed, angle and it's sensors values).
+
+This state will be used by the neural network to determine the car next actions.
+
+**Link to work:** 
+- <https://github.com/mathgama/racing-cars/commit/0b4bc764a053aa583a8f29c409fa014753f76730>
