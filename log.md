@@ -575,3 +575,13 @@ This state will be used by the neural network to determine the car next actions.
 
 **Link to work:** 
 - <https://github.com/mathgama/racing-cars/commit/0b4bc764a053aa583a8f29c409fa014753f76730>
+
+
+### Day 44: November 30, 2021
+
+**Today's Progress**: Once again, not a lot of code commited, but still had some advance in the "agent" class. 
+
+I also had to study a bit about pytorch and tensors to understand it better before continuing with the neural network implementation.
+
+**Link to work:** 
+- <https://github.com/mathgama/racing-cars/commit/c56c8ab8a97a1204fcf3bc568f3989cd5300ffd6>
