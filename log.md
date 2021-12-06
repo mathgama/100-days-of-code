@@ -585,3 +585,58 @@ I also had to study a bit about pytorch and tensors to understand it better befo
 
 **Link to work:** 
 - <https://github.com/mathgama/racing-cars/commit/c56c8ab8a97a1204fcf3bc568f3989cd5300ffd6>
+
+
+### Day 45: December 01, 2021
+
+**Today's Progress**: I was able to finish the model and the trainer classes, but I still got some errors because in this game the user should be able to perform multiple actions at once (eg. accelerate and turn at the same time) and the model isn't prepared for that.
+
+**Link to work:** 
+- <https://github.com/mathgama/racing-cars/commit/96eddb348a571e1c7521f237df13daddb79a623b>
+
+
+### Day 46: December 02, 2021
+
+**Today's Progress**: Changed the way that the game handles user input to make it easier for the model to predict the next action given that 2 commands at the same time should be possible.
+
+I was finally able to run the IA and see the car driving by itself! But I noticed that after approximately 100 games the IA was getting stuck at the start line insted of moving forward, even with a negative reward for it.
+
+**Link to work:** 
+- <https://github.com/mathgama/racing-cars/commit/b29fb59dafc8c94bb064d31c30e43fd540c2b58c>
+
+
+### Day 47: December 03, 2021
+
+**Today's Progress**: I started messing a little with the IA parameters to see if the learning could be improved, but didn't have too much progress to be honest. The car is still getting stuck after some time training.
+
+**Link to work:** 
+- <https://github.com/mathgama/racing-cars/commit/b29fb59dafc8c94bb064d31c30e43fd540c2b58c>
+
+
+### Day 48: December 04, 2021
+
+**Today's Progress**: Still changing the IA parameters, but this time I had some progress.
+
+After 500 games, the car was able to score 3952 points, which means running through the entire track!
+
+![car-record-score](./img/2021-12-04-car-record-score.png)
+
+But for some reason, it was not able to keep doing that consistently 🙁. Anyway, pretty happy that some progress was made!
+
+**Link to work:** 
+- <https://github.com/mathgama/racing-cars/commit/b29fb59dafc8c94bb064d31c30e43fd540c2b58c>
+
+
+### Day 49: December 05, 2021
+
+**Today's Progress**: I decided to take a break from the "racing-cars" project and start on two "advent of code" challenges:
+
+- [Dev Advent Calendar](https://github.com/devadvent/readme/)
+- [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+The "Dev Advent Calendar" is already on day 5, so I began by submitting this one. It uses Github Classroom to create a private repository, so I won't be able to link the commits for this one.
+
+For the "Advent of Code 2021" I decided to start on day 1. In the next couple days I'll try to submit multiple days to get me up-to-date.
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/56b860b4cf81d9284bfaac5b6c7b00658ab13554>
