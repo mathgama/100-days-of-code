@@ -640,3 +640,16 @@ For the "Advent of Code 2021" I decided to start on day 1. In the next couple da
 
 **Link to work:** 
 - <https://github.com/mathgama/advent-of-code-2021/commit/56b860b4cf81d9284bfaac5b6c7b00658ab13554>
+
+
+### Day 50: December 06, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Puzzle 06](https://github.com/devadvent/puzzle-6) from the [Dev Advent Calendar](https://github.com/devadvent/readme/)
+- [Day 02](https://adventofcode.com/2021/day/2) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+- [Day 03](https://adventofcode.com/2021/day/3) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/ef19039fa0b5bb5c711cf90e9732c8e0b9b15852>
+- <https://github.com/mathgama/advent-of-code-2021/commit/8d8fb6baa27a121d0855d837e6fe2bf855ff8c02>
