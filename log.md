@@ -631,8 +631,8 @@ But for some reason, it was not able to keep doing that consistently 🙁. Anywa
 
 **Today's Progress**: I decided to take a break from the "racing-cars" project and start on two "advent of code" challenges:
 
-- [Dev Advent Calendar](https://github.com/devadvent/readme/)
-- [Advent of Code 2021](https://adventofcode.com/2021/about)
+- [Dev Advent Calendar](https://github.com/devadvent/readme/) - Which I'll refer to as DevAdvent
+- [Advent of Code 2021](https://adventofcode.com/2021/about) - Which I'll refer to as AoC
 
 The "Dev Advent Calendar" is already on day 5, so I began by submitting this one. It uses Github Classroom to create a private repository, so I won't be able to link the commits for this one.
 
@@ -662,5 +662,35 @@ For the "Advent of Code 2021" I decided to start on day 1. In the next couple da
 - [Puzzle 07](https://github.com/devadvent/puzzle-7) from the [Dev Advent Calendar](https://github.com/devadvent/readme/)
 - [Day 04](https://adventofcode.com/2021/day/4) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
 
+Day 04 from the AoC isn't complete though. It still isn't giving the proper result for the second part of the challenge.
+
 **Link to work:** 
 - <https://github.com/mathgama/advent-of-code-2021/commit/eaa221aa9152dd29d9b72d53577d6fd63f5c7889>
+
+
+### Day 52: December 08, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Puzzle 08](https://github.com/devadvent/puzzle-8) from the [Dev Advent Calendar](https://github.com/devadvent/readme/)
+
+Unfortunately I didn't have enough time to go on with the AoC, since the puzzle 08 from the DevAdvent took me more time than I expected.
+
+**Link to work:** 
+- Commits to private repository :(
+
+
+### Day 53: December 09, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Puzzle 09](https://github.com/devadvent/puzzle-9) from the [Dev Advent Calendar](https://github.com/devadvent/readme/)
+- [Day 04](https://adventofcode.com/2021/day/4) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+Puzzle 09 from DevAdvent was pretty easy since I already had to use binary conversion in previous days of the AoC! 
+
+Then I was able to find the bug in the day 04 of the AoC and start to solve day 05, but couldn't get to the right response of the first part yet.
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/9bef9be54b4bbce492e3113912213ab9756738d9>
+- <https://github.com/mathgama/advent-of-code-2021/commit/61cdb59774720c9a80d1b118e0dc261b27c5891c>
