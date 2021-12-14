@@ -631,8 +631,8 @@ But for some reason, it was not able to keep doing that consistently 🙁. Anywa
 
 **Today's Progress**: I decided to take a break from the "racing-cars" project and start on two "advent of code" challenges:
 
-- [Dev Advent Calendar](https://github.com/devadvent/readme/) - Which I'll refer to as DevAdvent
-- [Advent of Code 2021](https://adventofcode.com/2021/about) - Which I'll refer to as AoC
+- [Dev Advent Calendar](https://github.com/devadvent/readme/) - Which I'll refer to as DevAdvent from now on
+- [Advent of Code 2021](https://adventofcode.com/2021/about) - Which I'll refer to as AoC from now on
 
 The "Dev Advent Calendar" is already on day 5, so I began by submitting this one. It uses Github Classroom to create a private repository, so I won't be able to link the commits for this one.
 
@@ -694,3 +694,54 @@ Then I was able to find the bug in the day 04 of the AoC and start to solve day 
 **Link to work:** 
 - <https://github.com/mathgama/advent-of-code-2021/commit/9bef9be54b4bbce492e3113912213ab9756738d9>
 - <https://github.com/mathgama/advent-of-code-2021/commit/61cdb59774720c9a80d1b118e0dc261b27c5891c>
+
+
+### Day 54: December 10, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Puzzle 10](https://github.com/devadvent/puzzle-10) from the [Dev Advent Calendar](https://github.com/devadvent/readme/)
+- [Day 05](https://adventofcode.com/2021/day/5) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/b1619092230fba057dfcfeb7ec8b729b03e90377>
+- <https://github.com/mathgama/advent-of-code-2021/commit/e10d89856adf5528cd20495718ba6f5f0a5782f8>
+
+
+### Day 55: December 11, 2021
+
+**Today's Progress**: No code advents today because I did participate on the [SAP Labs Online Contest](https://www.beecrowd.com.br/judge/en/contests/view/628).
+
+Turned out it was wayy more difficult than I was expecting. I'll definitely try to solve more problems on beecrowd to get more practice and then try my skills again on another contest.
+
+**Link to work:** 
+- <https://github.com/mathgama/sap-labs-contest/commit/4978d1a171cbdeb6836ed298256c5d93e32354c6>
+- <https://github.com/mathgama/sap-labs-contest/commit/cbf683a5029f2da23fc902497b145a9fd171c8b3>
+
+
+### Day 56: December 12, 2021
+
+**Today's Progress**: Back to the code advents:
+
+- [Day 06](https://adventofcode.com/2021/day/6) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+I did begin day 07, but I still need to solve the second part of it.
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/d889dfad9f06a8ae7f27a34d3134c0365713405e>
+- <https://github.com/mathgama/advent-of-code-2021/commit/49bdaea0af781e053ec7ac2f8dae1a0d353f6fe4>
+- <https://github.com/mathgama/advent-of-code-2021/commit/6d3d56a0a9124db2d39d4072c84dbe7c087cb011>
+
+
+### Day 57: December 13, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Puzzle 13](https://github.com/devadvent/puzzle-13) from the [Dev Advent Calendar](https://github.com/devadvent/readme/)
+- [Day 07](https://adventofcode.com/2021/day/7) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+Also finished the first part of the AoC - Day 08.
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/81bf941801766b1d5f5e890268650a014e0a8ff7>
+- <https://github.com/mathgama/advent-of-code-2021/commit/af1dbc7238702ff0244a582830f85ffb7ec99733>
