@@ -745,3 +745,14 @@ Also finished the first part of the AoC - Day 08.
 **Link to work:** 
 - <https://github.com/mathgama/advent-of-code-2021/commit/81bf941801766b1d5f5e890268650a014e0a8ff7>
 - <https://github.com/mathgama/advent-of-code-2021/commit/af1dbc7238702ff0244a582830f85ffb7ec99733>
+
+
+### Day 58: December 14, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Puzzle 14](https://github.com/devadvent/puzzle-14) from the [Dev Advent Calendar](https://github.com/devadvent/readme/)
+- [Day 08](https://adventofcode.com/2021/day/8) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/be3e8b01aadd41ff01670fe10ee61563ddbaab9f>
