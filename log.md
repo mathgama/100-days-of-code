@@ -756,3 +756,78 @@ Also finished the first part of the AoC - Day 08.
 
 **Link to work:** 
 - <https://github.com/mathgama/advent-of-code-2021/commit/be3e8b01aadd41ff01670fe10ee61563ddbaab9f>
+
+
+### Day 59: December 15, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Puzzle 15](https://github.com/devadvent/puzzle-15) from the [Dev Advent Calendar](https://github.com/devadvent/readme/)
+
+I also started Day 09 of the AoC but couldn't finish the second part of it.
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/a46f7403baf21c8b360603282157898776d1e18a>
+
+
+### Day 60: December 16, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Puzzle 16](https://github.com/devadvent/puzzle-16) from the [Dev Advent Calendar](https://github.com/devadvent/readme/)
+- [Day 09](https://adventofcode.com/2021/day/9) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+I also started Day 10 of the AoC but couldn't finish the second part of it.
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/918e3a97edae708aa2e420812c6c727863a5c8d8>
+- <https://github.com/mathgama/advent-of-code-2021/commit/c6dfe425c10d6f245cce43b44d82728dd26a934f>
+
+
+### Day 61: December 17, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Puzzle 17](https://github.com/devadvent/puzzle-17) from the [Dev Advent Calendar](https://github.com/devadvent/readme/)
+- [Day 10](https://adventofcode.com/2021/day/10) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/2dfc0d5d8b40faa9f02f267337e854badf96376b>
+
+
+### Day 62: December 18, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Puzzle 18](https://github.com/devadvent/puzzle-18) from the [Dev Advent Calendar](https://github.com/devadvent/readme/)
+
+Also decided to try something new, so I started coding new features for a [Discord bot](https://github.com/tresende/discord-bot) that is already used in a server that I have with my friends. So I spent some time understanding what is already built, just so I can start to develop a new feature in the upcoming days.
+
+**Link to work:** 
+- Commit to private repository
+
+
+### Day 63: December 19, 2021
+
+**Today's Progress**: I started creating a new feature for the Discord bot and the goal was to reply to specific command with a image containing some economic indicators from our country (Brazil).
+
+I was able to make it work locally. The bot navigates to a website and takes a screenshot that will be used in the reply.
+
+But I'm still not happy with the way I added this to the already existing code. The existing code isn't ready to generate responses asynchronously, which is the case here, and I had a hard time trying to do this on Typescript.
+
+For this reason, I did not commit any of this code yet.
+
+![discord-bot-reply](./img/2021-12-20-discord-bot-reply.png)
+
+**Link to work:** 
+- No commits :(
+
+
+### Day 64: December 20, 2021
+
+**Today's Progress**: I still tried to solve the async problems from yesterday, but no luck.
+
+To avoid another day without commits, I switched to a different (and easier) feature that I was intending to do. And althought it is pretty simple, I'm happy to finish this after 2 days stuck with the first one!
+
+**Link to work:** 
+- <https://github.com/tresende/discord-bot/commit/e040bfb5b250cdc553cf4f6b3da70292bb3aeaec>
