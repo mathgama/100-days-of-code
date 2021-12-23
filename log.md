@@ -831,3 +831,32 @@ To avoid another day without commits, I switched to a different (and easier) fea
 
 **Link to work:** 
 - <https://github.com/tresende/discord-bot/commit/e040bfb5b250cdc553cf4f6b3da70292bb3aeaec>
+
+
+### Day 65: December 21, 2021
+
+**Today's Progress**: I created another feature for the discord bot that should reply to messages containing certain words with a random gif from a list of pre configured links.
+
+The sets of words and corresponding gifs are customizable via the settings.json file.
+
+Also set the chance will reply a gif only 50% of the time (considering there's a word match), to avoid spamming.
+
+Besides that, did some other minor fixes on the bot.
+
+**Link to work:** 
+- <https://github.com/tresende/discord-bot/commit/6863f5d718b2abddfe51f8681fffb5074c0b5cb4>
+- <https://github.com/tresende/discord-bot/commit/c48d99f755312470c8b9e6f52308d8632bad2278>
+- <https://github.com/tresende/discord-bot/commit/d29854fc41da087e0a15da899c92cf87bc58fdef>
+- <https://github.com/tresende/discord-bot/commit/2429aaf819ff2d9a9bedb927d99a6683fb807c37>
+
+
+### Day 66: December 22, 2021
+
+**Today's Progress**: Back to the code advents:
+
+- [Puzzle 22](https://github.com/devadvent/puzzle-22) from the [Dev Advent Calendar](https://github.com/devadvent/readme/)
+
+I also started day 11 of the [Advent of Code 2021](https://adventofcode.com/2021/about), but could only finish the first part of it (struggled a bit with it as it was not that easy to debug).
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/0f313e6b788d7d62c581e559f78e1ee75c3fae1a>
