@@ -860,3 +860,35 @@ I also started day 11 of the [Advent of Code 2021](https://adventofcode.com/2021
 
 **Link to work:** 
 - <https://github.com/mathgama/advent-of-code-2021/commit/0f313e6b788d7d62c581e559f78e1ee75c3fae1a>
+
+
+### Day 67: December 23, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Puzzle 23](https://github.com/devadvent/puzzle-23) from the [Dev Advent Calendar](https://github.com/devadvent/readme/)
+- [Day 11](https://adventofcode.com/2021/day/11) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/701a4a54c635ff31e336a289960aaa5edfba1f47>
+
+
+### Day 68: December 24, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+I started solving day 12 of the Advent of Code 2021, but struggled with it a bit and couldn't get the recursion function to work just right.
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/062818eaf521a9ad3b9d967049907c06c3abecb8>
+
+
+### Day 69: December 25, 2021
+
+**Today's Progress**: Yesterday, as soon as I turned off my PC and went to celebrate Christmas with my family, I started to have some cool insights on how to solve the problem. So today it took like 2 minutes to finish solving the first part with those ideas!
+
+Then I started trying to solve part 2, but found it pretty difficult as well. The algorithm is actually able to solve smaller test cases, but in the biggest one it just keep on processing and never finishes. It probably needs some optimization, or change the approach (but I hope it doesn't get to this point).
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/cf209ad3e6a25a2ecb73a5c1ac62c7e62d3b9873>
+- <https://github.com/mathgama/advent-of-code-2021/commit/bcb8fcc6d96805091a9f86e12df7ab64d0334cd8>
