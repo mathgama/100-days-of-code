@@ -892,3 +892,34 @@ Then I started trying to solve part 2, but found it pretty difficult as well. Th
 **Link to work:** 
 - <https://github.com/mathgama/advent-of-code-2021/commit/cf209ad3e6a25a2ecb73a5c1ac62c7e62d3b9873>
 - <https://github.com/mathgama/advent-of-code-2021/commit/bcb8fcc6d96805091a9f86e12df7ab64d0334cd8>
+
+
+### Day 70: December 26, 2021
+
+**Today's Progress**: I still tried to solve part 2 of day 12, but wasn't able to make it work. The commit itself was very small, but did lots of debugging and testing trying different things.
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/83dc79e7f5dc83f18c40ee549151ee501bf9803b>
+
+
+### Day 71: December 27, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Day 13](https://adventofcode.com/2021/day/13) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/7e51b6156d786ebdafe963f20b9cb766b115d39b>
+- <https://github.com/mathgama/advent-of-code-2021/commit/79f7c1569b3f505bf6153b1f078807d7f94d0fe1>
+
+
+### Day 72: December 28, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+I was able to solve only the first part of the day 14, after having to spend some time trying to understand better how the Array.length works in Javascript. It doesn't count exactly how many elements the array haves:
+
+![array-length](./img/2021-12-28-array-length.png)
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/6b0586e79548bcb8aa18715113116952eb53e800>
