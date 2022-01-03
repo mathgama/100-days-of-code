@@ -923,3 +923,59 @@ I was able to solve only the first part of the day 14, after having to spend som
 
 **Link to work:** 
 - <https://github.com/mathgama/advent-of-code-2021/commit/6b0586e79548bcb8aa18715113116952eb53e800>
+
+
+### Day 74: December 29, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Day 14](https://adventofcode.com/2021/day/14) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/d64e184a18000be037f685aa605b8d929440e879>
+
+
+### Day 75: December 30, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+I started day 15, but with it needed shortest path solving to be done. As I noticed I'm having difficulty with shortest path problem (like in day 12), I decided to study the Djikstra Algorithm before trying to solve this problem.
+
+After studying it, I began implementing it in my project. But didn't get to finish the part 1 of the challenge yet.
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/15ad386fe9d63b67a440efb94d408f1c4e85f6e1>
+
+
+### Day 76: December 31, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+Part 1 of day 15 that I started yesterday was closer to ready than I expected, it only needed small changes. So I was able to fix it and finish the 2nd part of the problem as well!
+
+- [Day 15](https://adventofcode.com/2021/day/15) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/38e558cfdd243437954594a8ed11292ce9ec4cf3>
+- <https://github.com/mathgama/advent-of-code-2021/commit/e821d9cc20747299b5b96b9bb2321ebf1905ec1a>
+
+
+### Day 77: December 01, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+I started day 16, but I found the problem description a bit complicated at first. After failing with my first implementation because I misunderstood the problem, I restarted and was able to finish the 1st part of the problem!
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/bfe65c608691fb6aa1a63fe3271a5f9496cb4ab8>
+- <https://github.com/mathgama/advent-of-code-2021/commit/8192521738a0659a2a07b459721a75442fa64a15>
+
+
+### Day 78: December 02, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Day 16](https://adventofcode.com/2021/day/16) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/b4871f2cf9787ac07ac4edb3abea0bc59e346410>
