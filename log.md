@@ -979,3 +979,58 @@ I started day 16, but I found the problem description a bit complicated at first
 
 **Link to work:** 
 - <https://github.com/mathgama/advent-of-code-2021/commit/b4871f2cf9787ac07ac4edb3abea0bc59e346410>
+
+
+### Day 79: December 03, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+Today I was able to finish part one of the day 17. Pretty happy with the math formula I developed to calculate the Y position of the object considering its acceleration.
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/aa0fb88786b63c15399e3622205e5241d172c08c>
+
+
+### Day 80: December 04, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Day 17](https://adventofcode.com/2021/day/17) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/1f8882c9c9cc66ff0ecee3721bd912598821f3f2>
+- <https://github.com/mathgama/advent-of-code-2021/commit/46978de167b3b4fbff5f187664e6e9724033234f>
+
+
+### Day 81: December 05, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+I started day 18 but couldn't do much, not even finished the first part of it. At first I thought I was just out of focus, but after I decided to search reddit to see if I could at least get some hint on how to start solving this problem, I noticed from others opinion that this was one of hardest problems to solve this year.
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/e0d126175e377c76c107b31f22f0b985d2decf06>
+
+
+### Day 82: December 06, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+After struggling a bit with it yesterday, I was able to finish part 1 of day 18. Just by changing the data structure it became way, way easier.
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/8cd6e034da74b64060db11ad0296e85214b06c52>
+- <https://github.com/mathgama/advent-of-code-2021/commit/c7c35c262db436619692323cda60e7632418a667>
+
+
+### Day 83: December 07, 2021
+
+**Today's Progress**: Continuing with the code advents:
+
+- [Day 18](https://adventofcode.com/2021/day/18) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+I also started day 19, since part 2 of day 18 was pretty easy. But I found day 19 to be pretty difficult and wasn't able to do much.
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/6128bc80cdf5a249ffc477a2c3b6bffba4a54271>
+- <https://github.com/mathgama/advent-of-code-2021/commit/7a64de436ae0eb8cfc2666e52dcc3f3eaea4a6ab>
