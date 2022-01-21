@@ -1123,3 +1123,79 @@ And then I was pretty happy to get to the correct result for the example input! 
 
 **Link to work:** 
 - <https://github.com/mathgama/advent-of-code-2021/commit/a8cce349bd8406ccc27fa6822f353b4f47c36472>
+
+
+### Day 92: January 16, 2022
+
+**Today's Progress**: Continuing with the code advents:
+
+Lots of debugging to try and some minor changes did the trick! Part 1 of day 23 solved.
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/64adb3f6cbefdaff5808320da934468102d8d9ee>
+
+
+### Day 93: January 17, 2022
+
+**Today's Progress**: Continuing with the code advents:
+
+Starting part 2 of day 23. At first I thought the code wouldn't need big changes considering Djisktra was successfully implemented for part 1. 
+
+But after doing the changes, the result still isn't the right one :(
+
+I debugged it but still couldn't find where the error is.
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/9cd19efe43754c96f50f3fa213bce4bbd10f0b89>
+
+
+### Day 94: January 18, 2022
+
+**Today's Progress**: Continuing with the code advents:
+
+After some debugging, I found out that the error was in the way I was transforming the state from an array to a string. It was working for the part 1 because the rooms had only 2 spaces, but with 4 spaces it was causing some bugs.
+
+- [Day 23](https://adventofcode.com/2021/day/23) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/08561f2f477f04f513471529c790beca3947fc10>
+
+
+### Day 95: January 19, 2022
+
+**Today's Progress**: Continuing with the code advents:
+
+I started trying to solve day 24 part 1, but couldn't get too far. This problem actually doesn't involve too much coding, it is more of a "reverse engineering" kind of problem.
+
+I even tried getting some hints on reddit after not being able to do much by myself. But I decided it wasn't fair to get the stars as I couldn't figure out the whole point of the problem by myself (operations with base 26 numbers).
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/c546c64d1c46aa19665b4da35a6d6460874c4f56>
+
+
+### Day 96: January 20, 2022
+
+**Today's Progress**: Continuing with the code advents:
+
+I started day 25 part 1 and finished it. Pretty straight forward problem!
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/5501237449b507c0f27ea1227d0636f2f202e196>
+
+
+### Day 97: January 21, 2022
+
+**Today's Progress**: Continuing with the code advents:
+
+As day 25 doesn't really have a part 2 (it just tells you to get all the stars from the other days), I decided to go back to day 12 and try to the 2nd star, as I felt this one was the one I got closer to doing it.
+
+After some debugging and some minor changes to optimize the time, I was able to do it! The program still takes some time to solve it (1-2 minutes?), but this did it for me!
+
+- [Day 12](https://adventofcode.com/2021/day/12) from the [Advent of Code 2021](https://adventofcode.com/2021/about)
+
+So I got a total of 44 stars in 2021 advent of code. As for the rest of the stars, I don't think I'll try to get them as it seemed to out of my knowledge.
+
+![advent-of-code-days](./img/2022-01-21-advent-of-code-days.png)
+
+**Link to work:** 
+- <https://github.com/mathgama/advent-of-code-2021/commit/62485ae77d60764a882dd51868018e6703b29d58>
