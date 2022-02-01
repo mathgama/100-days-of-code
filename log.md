@@ -1199,3 +1199,40 @@ So I got a total of 44 stars in 2021 advent of code. As for the rest of the star
 
 **Link to work:** 
 - <https://github.com/mathgama/advent-of-code-2021/commit/62485ae77d60764a882dd51868018e6703b29d58>
+
+
+### Day 98: January 22, 2022
+
+**Today's Progress**: For those final 3 days of the "100 days of code challenge" I decided to go back and try to solve some of the SAP Labs Contest that I entered on day 55.
+
+Back on day 55 I found it very difficult to solve those problems, so I decided to try it again and see if I made some progress.
+
+Starting with the problem 'A'. Althought it isn't possible anymore to validate my solution in the Beecrowd (since the contest is over), I'm pretty happy with how easily I was able to solve the examples with the experience I got from the Advent of Code. 
+
+**Link to work:** 
+- <https://github.com/mathgama/sap-labs-contest/commit/daaba715dfe7640cdb690aeee443ec32220ffca6>
+- <https://github.com/mathgama/sap-labs-contest/commit/b73ec3151d79431db9d6bdd17bbf4123d1713138>
+
+
+### Day 99: January 23, 2022
+
+**Today's Progress**: Continuing with the SAP Labs problems, I was able to solve the problem 'F' today.
+
+**Link to work:** 
+- <https://github.com/mathgama/sap-labs-contest/commit/28fe90fa5996a167cf99139f7a5e80be2ea4dada>
+- <https://github.com/mathgama/sap-labs-contest/commit/3da32be75a06f1f13d31b820d5e4647306711b38>
+
+
+### Day 100: January 24, 2022
+
+**Today's Progress**: Continuing with the SAP Labs problems, I was able to solve the problem 'J' as well.
+
+:tada: :tada: :tada: :tada: :tada: :tada: 
+
+Those 3 last days where so good because I could measure some improvement since day 55 (the first time I tried unsuccessfully to solve those same problems).
+
+I'm pretty happy to finish the 100 days of code challenge! It gets tiring with time, mainly because you can't miss a single day, but it definetely helps a lot on building the habit of studying consistently through pratice! I hope to keep practicing from now on, even though I have finished the challenge.
+
+**Link to work:** 
+- <https://github.com/mathgama/sap-labs-contest/commit/776e968d8508c5e763e8ee42f556cdb38c501d24>
+- <https://github.com/mathgama/sap-labs-contest/commit/f7c008aada153633f0b059419bb5393d8639845b>
